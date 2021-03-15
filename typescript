@@ -1,0 +1,92 @@
+Script started on Fri 13 Nov 2020 05:05:43 PM EST
+darkdeer@itserver6:~/cs410/hw3$ exit./a.out
+***********************************************
+** Welcome to the CS410 Fraction Calculator! **
+***********************************************
+Choose an option (select 1-5)
+
+1. Add      (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide   (/)
+5. Quit
+
+Select: 1
+Enter Numerator: 3
+Enter Denominator: 4
+Enter Numerator: 7
+Enter Denominator: 4
+
+(3/4) + (7/4) = (5/2)
+
+Choose an option (select 1-5)
+
+1. Add      (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide   (/)
+5. Quit
+
+Select: 4
+Enter Numerator: 3
+Enter Denominator: 4
+Enter Numerator: 7
+Enter Denominator: 4
+
+(3/4) / (7/4) = (3/7)
+
+Choose an option (select 1-5)
+
+1. Add      (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide   (/)
+5. Quit
+
+Select: 2
+Enter Numerator: 3
+Enter Denominator: 4
+Enter Numerator: 7
+Enter Denominator: 4
+
+(3/4) - (7/4) = (-1/1)
+
+Choose an option (select 1-5)
+
+1. Add      (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide   (/)
+5. Quit
+
+Select: 3
+Enter Numerator: 3
+Enter Denominator: 4
+Enter Numerator: 7
+Enter Denominator: 4
+
+(3/4) * (7/4) = (21/16)
+
+Choose an option (select 1-5)
+
+1. Add      (+)
+2. Subtract (-)
+3. Multiply (*)
+4. Divide   (/)
+5. Quit
+
+Select: 5
+
+Thank you for using the Fraction Calculator
+-----------------
+Here is the Queue
+-----------------
+(5/2) Size of Queue: 4
+(3/7) Size of Queue: 3
+(-1/1) Size of Queue: 2
+(21/16) Size of Queue: 1
+Queue is empty, good job!
+darkdeer@itserver6:~/cs410/hw3$ exir[Kt
+exit
+
+Script done on Fri 13 Nov 2020 05:07:01 PM EST
